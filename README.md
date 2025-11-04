@@ -9,10 +9,15 @@ O objetivo é aprender e praticar desde conceitos básicos até transformações
 ## Conteúdo do Repositório
 aprendendo-pyspark/
 │
+
 ├── metadatda/
+
 │ ├── 01_conhecendo_funcoes
+
 │ ├── 02_trabalhando_com_colunas
+
 │ └── 03_utilizando_regex
+
 │ └── 04_modelo_de_validacao_de_linkage
 
 ## Objetivo
